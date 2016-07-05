@@ -5,7 +5,7 @@ A simple SPA to analyze AWS On Demand and Spot prices for linux instances
 across the available regions. Uses the AWS API endpoints for pricing
 information:
 
-  - Spot: [http://spot-price.s3.amazonaws.com/spot.js](http://a0.awsstatic.com/pricing/1/ec2/linux-od.min.js)
+  - Spot: [http://spot-price.s3.amazonaws.com/spot.js](http://spot-price.s3.amazonaws.com/spot.js)
   - On Demand: [http://a0.awsstatic.com/pricing/1/ec2/linux-od.min.js](http://a0.awsstatic.com/pricing/1/ec2/linux-od.min.js)
 
 Install
